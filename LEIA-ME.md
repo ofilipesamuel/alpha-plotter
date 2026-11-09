@@ -19,5 +19,5 @@ Landing page estática em HTML, CSS e JavaScript. Não usa frameworks, backend, 
 - A área indicada é Contagem e Belo Horizonte, com disponibilidade a confirmar diretamente com Henrique.
 - O comparador usa duas fotos de geladeiras e permite arrastar o divisor ou usar as setas do teclado.
 - Instagram e WhatsApp apontam para `@alphaplotter` e `(31) 99388-6442`, conforme os dados fornecidos.
-- A página não foi publicada. Confirme a região de atendimento e os detalhes do portfólio antes de qualquer uso oficial.
+- A página está publicada no GitHub Pages. Confirme a região de atendimento e os detalhes do portfólio antes de qualquer alteração oficial.
 
